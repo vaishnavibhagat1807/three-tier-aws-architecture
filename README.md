@@ -54,7 +54,7 @@ Successfully deployed a secure and scalable cloud architecture demonstrating AWS
 
 ## 📸 Screenshots
 
-(Add screenshots in `/screenshots` folder)
+
 
 ---
 
