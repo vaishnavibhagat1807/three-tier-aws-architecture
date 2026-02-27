@@ -53,7 +53,11 @@ Successfully deployed a secure and scalable cloud architecture demonstrating AWS
 ---
 
 ## 📸 Screenshots
+## 🎉 Final Output
 
+Application successfully deployed using AWS Three Tier Architecture.
+
+![Final Output](final-output.png)
 
 
 ---
